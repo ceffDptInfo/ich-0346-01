@@ -2,5 +2,5 @@
 Dépôt GitHub contenant les sources requises pour les exercices du cours.
 Chaque branche contient les sources dédiées à un exercice.
 
-## A01 - Horloges mondiales
+## Horloges mondiales
 Ce projet propose une page HTML static contenant l'horloge de plusieurs lieux.
